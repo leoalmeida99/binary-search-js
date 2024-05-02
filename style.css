@@ -105,6 +105,10 @@ button {
     font-size: 32px;
     font-weight: 400;
 }
+.texto__paragrafo__dica {
+    font-size: 25px;
+    font-weight: 400;
+}
 
 button:disabled {
     background-color: gray;
